@@ -23,4 +23,4 @@
 ## Entrega
 > Importante: cada aluno deve fazer a entrega em sua própria conta apesar dos resultados terem sido resolvidos em equipe
 
-* Comunicar a conclusão da atividade `Revisão de código` da ferramenta classroom 
+* Comunicar a conclusão da atividade `Revisão de código` da ferramenta classroom indicando o endereço do repositório git
